@@ -1,6 +1,7 @@
 # Vygralia
 
-I tend to do things which push me further forward.
+I tend to do things which push me further forward.  
+email: vygralia@gmail.com
 
 # Examples of my past projects
 
